@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - clim
+  - Ground
+  - Grounded
   layers:
   - Default
   - TransparentFX
